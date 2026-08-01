@@ -14,6 +14,12 @@ The platform gives users access to carefully prepared, production-oriented workf
 - storage and management of user assets and generated media;
 - scalable cloud infrastructure for computationally intensive workloads.
 
+## GPU Compute
+
+TensorDock is currently being evaluated as an on-demand GPU infrastructure provider for development, testing, AI inference, image generation, and video-processing workloads.
+
+The evaluation is focused primarily on RTX 4090 and RTX 5090 instances, with attention to performance, reliability, cost efficiency, and suitability for future production workloads. TensorDock has not yet been selected as the final production provider.
+
 ## Cloud Storage
 
 Backblaze B2 is planned as part of the platform's storage infrastructure for:
@@ -28,7 +34,7 @@ The storage architecture is intended to scale with increasing numbers of users, 
 
 ## Development Status
 
-Æther Weave AI Studio is currently in **active private development**.
+Æther Weave AI Studio is currently in **active private development** by an independent solo developer. The project is self-funded and does not currently have external investment or financial backing.
 
 This public repository serves only as a product overview and project verification page. The application source code, proprietary workflows, model configurations, infrastructure details, internal documentation, and other sensitive materials are maintained in private repositories and are not published here.
 
